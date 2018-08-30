@@ -1,3 +1,3 @@
 # opencv
 
-project on detcetion of object on the base of color of object. 
+project on detection of object on the basis of color of object. 
