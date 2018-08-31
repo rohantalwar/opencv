@@ -1,3 +1,3 @@
 # opencv
 
-project on detection of object on the basis of color of object. 
+project on face and eyes dectection in a video stream using "Haar-cascade Detection" .
